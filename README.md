@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FirstNgApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# This is a repository for testing and adding some of the basics of angular for practise
+>>>>>>> 1a4acc5132a7447d6d493bbd7e94d55d78dc7ef3
